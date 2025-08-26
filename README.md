@@ -2,6 +2,8 @@
 
 This repository contains a custom-trained YOLOv8 model for detecting critical safety equipment inside a simulated space station environment. It uses synthetic data and provides scripts for training, validating, and predicting with YOLOv8.
 
+Below are the files : https://revaedu-my.sharepoint.com/:f:/g/personal/ugcet2300779_reva_edu_in/EgPVdHcuAS1EkQKdRhSx_sYBrfpAkVSBvxvnm-4H8_RrZQ
+
 ---
 
 ## Project Overview
